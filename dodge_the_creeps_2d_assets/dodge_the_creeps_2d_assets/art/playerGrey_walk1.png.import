@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dv6rx85s1gy3i"
-path="res://.godot/imported/ballBlue_10.png-a6ac20f1eeff46860499a0f8c7bba4ff.ctex"
+uid="uid://c4spn6o7m4s12"
+path="res://.godot/imported/playerGrey_walk1.png-6f4d9bcc5d4d0cbb6d9fbfdf724d292f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/ballBlue_10.png"
-dest_files=["res://.godot/imported/ballBlue_10.png-a6ac20f1eeff46860499a0f8c7bba4ff.ctex"]
+source_file="res://dodge_the_creeps_2d_assets/dodge_the_creeps_2d_assets/art/playerGrey_walk1.png"
+dest_files=["res://.godot/imported/playerGrey_walk1.png-6f4d9bcc5d4d0cbb6d9fbfdf724d292f.ctex"]
 
 [params]
 
